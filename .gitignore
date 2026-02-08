@@ -1,0 +1,19 @@
+# Cache directory for trained models
+cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
