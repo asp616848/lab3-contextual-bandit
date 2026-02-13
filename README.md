@@ -454,15 +454,3 @@ This project successfully demonstrates a complete pipeline for contextual bandit
 - Investigate context generalization to unseen user types
 
 ---
-
-## 9. References
-
-1. Bubeck, S., & Cesa-Bianchi, N. (2012). *Regret analysis of stochastic and nonstochastic multi-armed bandit problems.* Machine Learning, 45(1), 235-256.
-
-2. Li, L., Chu, W., Langford, J., & Schapire, R. E. (2010). *A contextual-bandit approach to personalized news recommendation.* In WWW, 661-670.
-
-3. Chen, T., & Guestrin, C. (2016). *XGBoost: A scalable tree boosting system.* In SIGKDD, 785-794.
-
-4. Auer, P., Cesa-Bianchi, N., & Fischer, P. (2002). *Finite-time analysis of the multiarmed bandit problem.* ML, 47(2-3), 235-256.
-
-5. Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction* (2nd ed.). MIT Press.
